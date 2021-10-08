@@ -1,0 +1,17 @@
+Package: nfpm
+Priority: 
+Section: 
+Installed-Size: 11657
+Maintainer: Carlos Alexandro Becker <root@carlosbecker.com>
+Architecture: amd64
+Version: 2.6.0
+Filename: pool/main/n/nfpm/nfpm_amd64.deb
+Size: 4607136
+MD5sum: be757711140973fead8ea7dc582337a5
+SHA1: 999a1bdb99c61438e1969fd55dee9f5041ae4359
+SHA256: e65d24782d6d54a907f063e46929c04801314ea5fd1491ef6fb8e931751ff50f
+SHA512: 14b2d36847a026b2a862fd67fb9863dade787f2ea9e8c80411fadb89916abeb6367b47021de0f73cbfbf241d53dbd90258357d57739f2c0fe2a08c938c994e4d
+Description: nFPM is a simple, 0-dependencies, deb, rpm and apk packager.
+Homepage: https://github.com/goreleaser/nfpm
+Vendor: GoReleaser
+
